@@ -4,7 +4,7 @@ html {
     letter-spacing: 0.8px;
     min-height: 100vh;
     color: #d8e9ef;
-    background-image: linear-gradient(-20deg, #025159 0%, #733b36 100%);
+    background-image: linear-gradient(-20deg, #84c5cc 0%, #dda8eb 100%);
     background-size: cover;
 }
 
@@ -74,11 +74,11 @@ p {
 }
 
 .circle {
-    border-color: #bf5239;
+    border-color: #ffbef6;
 }
   
 .circle-mask {
-    border-color: #e85a71;
+    border-color: #d8e9ef;
 }
 
 .app-counter-box {
@@ -104,3 +104,4 @@ button {
 button:hover {
     color: #90c0d1;
 }
+
